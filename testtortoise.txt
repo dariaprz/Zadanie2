@@ -2,4 +2,5 @@ blablabla
 
 dwwe
 we
-edycja do merge123
+
+edycjadomerge123
